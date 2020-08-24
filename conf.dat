@@ -1,0 +1,15 @@
+capacity 251.4
+conductivity 804
+density 78.74
+size_x 1000
+size_y 1000
+delta_x 1
+delta_y 1
+delta_t 1
+maxTime 100000
+save 200
+left_border 100
+top_border 100
+right_border 100
+bottom_border 100
+img_folder ../img
